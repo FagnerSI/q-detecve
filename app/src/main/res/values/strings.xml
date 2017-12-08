@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Q-Detective</string>
+
+    <string name="Categorias_prompt">Categorias</string>
+
+    <string-array name="Categorias_array">
+        <item>VIAS PUBLICAS</item>
+        <item>EQUIPAMENTOS COMUNICATARIOS</item>
+        <item> LIMPEZA URBANA</item>
+    </string-array>
+
+</resources>
